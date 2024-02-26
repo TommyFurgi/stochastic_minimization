@@ -1,6 +1,6 @@
 # Stochastic_minimization
 
-R script to find function minimum using stochastic minimization algorithm for statistic course on AGH.
+This project constituted one of the stages required for passing the Probability and Statistics course.
 
 We have implemented the following algorithms: - Pure Random Search - Multi-Start (using L-BSGS-B from R `optim` package).
 
@@ -10,7 +10,7 @@ Script generates multiple plots with data from minimum finding and text output w
 
 The project contains results from comparing two stochastic minimization algorithms: multi-start (MS) and Pure Random Search (PRS). Two functions from the "smoof" library are used: the Ackley function and the Rastrigin function in 2, 10, and 20 dimensions.
 
-# Usage
+# Project Objective
 
 Script requires R installed on your machine with following dependencies: - `smoof` package. 
 
