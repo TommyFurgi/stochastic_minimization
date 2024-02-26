@@ -23,3 +23,14 @@ In `main.R` you can change following parameters: - `num_points` - number of repe
 # Results
 
 You can find plots in `plots` directory. You can find my elaboration in [results](doc/Stata.pdf) (in Polish).
+
+## The technologies we used in the project
+
+### 1 -> R
+### 2 -> Python
+
+## Team
+
+[Wiktor Dybalski](https://github.com/WiktorDybalski)
+
+[Tomasz Furgała](https://github.com/TommyFurgi)
