@@ -4,7 +4,6 @@
 
 We have implemented the following algorithms: - Pure Random Search - Multi-Start (using L-BSGS-B from R `optim` package).
 
-Script generates multiple plots with data from minimum finding and text output with results.
 
 ## Description
 
