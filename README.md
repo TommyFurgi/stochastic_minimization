@@ -10,7 +10,7 @@ Script generates multiple plots with data from minimum finding and text output w
 
 The project contains results from comparing two stochastic minimization algorithms: multi-start (MS) and Pure Random Search (PRS). Two functions from the "smoof" library are used: the Ackley function and the Rastrigin function in 2, 10, and 20 dimensions.
 
-## Project Objective
+## Usage
 
 Script requires R installed on your machine with following dependencies: - `smoof` package. 
 
