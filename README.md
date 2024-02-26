@@ -1,8 +1,8 @@
-# stochastic_minimization
+# Stochastic_minimization
 
-Simple R script to find function minimum using stochastic minimization algorithm for statistic course on AGH UST.
+R script to find function minimum using stochastic minimization algorithm for statistic course on AGH.
 
-I have implemented the following algorithms: - Pure Random Search - Multi-Start (using L-BSGS-B from R `optim` package).
+We have implemented the following algorithms: - Pure Random Search - Multi-Start (using L-BSGS-B from R `optim` package).
 
 Script generates multiple plots with data from minimum finding and text output with results.
 
@@ -12,7 +12,7 @@ The project contains results from comparing two stochastic minimization algorith
 
 # Usage
 
-Script requires R installed on your machine tohether with following dependencies: - `smoof` package. 
+Script requires R installed on your machine with following dependencies: - `smoof` package. 
 
 ```         
 RScript main.R
