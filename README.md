@@ -2,8 +2,9 @@
 
 **This project constituted one of the stages required for passing the Probability and Statistics course.**
 
-We have implemented the following algorithms: - Pure Random Search - Multi-Start (using L-BSGS-B from R `optim` package).
-
+We have implemented the following algorithms: 
+- Pure Random Search  
+- Multi-Start (using L-BSGS-B from R `optim` package)
 
 ## Description
 
